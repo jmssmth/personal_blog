@@ -7,7 +7,7 @@ A minimalistic blog theme built with SvelteKit.
 ## Install
 
 ```sh
-npx degit lemmon/tablog-svelte
+npx degit jmssmth/persnaol_blog
 npm install
 npm run dev
 ```
